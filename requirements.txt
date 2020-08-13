@@ -1,0 +1,5 @@
+numpy==1.18.3
+tqdm==4.45.0
+scikit-image==0.15.0
+aiohttp==3.6.2
+git+https://test:testtest@dev.mrbot.im/mrbot/mrrest.git
